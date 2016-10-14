@@ -1,5 +1,5 @@
 /*
-   This program was developed by Jehron Petty and Ethan Jones
+   This program was developed by Jehron Petty
    during the month of March, 2016.
 
    This program is capable of taking a list of classrooms and
